@@ -1,7 +1,7 @@
 {
   "name": "accessibility-toolkit",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./dist/components/AccessButton.js",
   "scripts": {
     "test": "jest --config jest.config.json",
     "prepare": "husky",
