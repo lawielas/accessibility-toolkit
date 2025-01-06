@@ -2,16 +2,26 @@
   "name": "accessibility-toolkit",
   "version": "1.0.0",
   "main": "./dist/components/AccessButton.js",
+  "homepage": "https://github.com/lawielas/accessibility-toolkit#readme",
   "scripts": {
     "test": "jest --config jest.config.json",
     "prepare": "husky",
     "build": "rm -r dist && babel src -d dist --ignore src/**/*.test.jsx && npm run copy-files",
     "copy-files": "cp ./src/index.css dist/"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "accessibility",
+    "aria",
+    "inclusion",
+    "disablity"
+  ],
+  "author": {
+    "name": "Lawal Aminu Saleh",
+    "email": "lawielas4me@gmail.com",
+    "url": "https://www.utilens.com.ng"
+  },
+  "license": "MIT",
+  "description": "An accessibility toolkit that helps make web applications readable to everyone.",
   "devDependencies": {
     "@babel/cli": "^7.26.4",
     "@babel/core": "^7.26.0",
