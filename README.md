@@ -20,15 +20,16 @@ Provides a toggle for dark and light themes.
 
 
 ## Installation
-This section shows how to install the T package.
+This section shows how to install the package.
 
 ### Using npm
 ```
 npm install accessibility-toolkit
 ```
-yarn add accessibility-toolkit
+
 ### Using yarn
 ```
+yarn add accessibility-toolkit
 ```
 ### Using pnpm
 ```
