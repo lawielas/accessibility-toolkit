@@ -1,0 +1,20 @@
+.access-btn-container {
+    margin-top: 30px;
+}
+.access-button {display: inline-block;
+    text-decoration: none;
+    font-size: 0.97rem;
+    font-weight: bold;
+    color: #333;
+    background-color: #eee;
+    padding: 17px 35px;
+    border-radius: 7px;
+    border-block: 1px solid #ccc;
+    border-inline: 1px solid #333;
+}
+.access-button:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #1a8cd8;
+    border-block-color: #1a8cd8;
+}

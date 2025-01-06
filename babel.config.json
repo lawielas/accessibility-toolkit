@@ -1,6 +1,6 @@
 {
     "presets": [
-        ["@babel/present-env", {"targets": "defaults"}],
-        "@babel/present-react"
+    ["@babel/preset-env", { "targets": "defaults" }],
+    "@babel/preset-react"
     ]
-}
+    }
