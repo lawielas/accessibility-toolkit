@@ -38,8 +38,9 @@ pnpm add accessibility-toolkit
 ## Usage
 ```js
 import { AccessButton } from "accessibility-toolkit";
+
 function App() {
-return <AccessButton />;
+    return <AccessButton />;
 }
 ```
 ## Dependencies
