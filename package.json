@@ -25,5 +25,10 @@
   },
   "peerDependencies": {
     "react": "^19.0.0"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
   }
 }
