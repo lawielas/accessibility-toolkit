@@ -24,15 +24,15 @@ This section shows how to install the T package.
 
 ### Using npm
 ```
-npm install thank-you-tweet-button-001
+npm install accessibility-toolkit
 ```
-yarn add thank-you-tweet-button-001
+yarn add accessibility-toolkit
 ### Using yarn
 ```
 ```
 ### Using pnpm
 ```
-pnpm add thank-you-tweet-button-001
+pnpm add accessibility-toolkit
 ```
 ## Usage
 ```js
