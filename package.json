@@ -2,7 +2,7 @@
   "name": "accessibility-toolkit",
   "version": "1.0.0",
   "files": ["./dist"],
-  "main": "./dist/components/AccessButton.js",
+  "main": "./dist/index.js",
   "homepage": "https://github.com/lawielas/accessibility-toolkit#readme",
   "scripts": {
     "test": "jest --config jest.config.json",
