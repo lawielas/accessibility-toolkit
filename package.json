@@ -1,6 +1,7 @@
 {
   "name": "accessibility-toolkit",
   "version": "1.0.0",
+  "files": ["./dist"],
   "main": "./dist/components/AccessButton.js",
   "homepage": "https://github.com/lawielas/accessibility-toolkit#readme",
   "scripts": {
