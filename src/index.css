@@ -18,3 +18,69 @@
     background-color: #1a8cd8;
     border-block-color: #1a8cd8;
 }
+
+/* Font size styles */
+.text-small {
+    font-size: 0.875rem;
+}
+
+.text-medium {
+    font-size: 1rem;
+}
+
+.text-large {
+    font-size: 1.25rem;
+}
+
+/* Underline links */
+.underline-links a {
+    text-decoration: underline;
+}
+
+/* Floating button */
+.accessibility-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 10px;
+    font-size: 1.5rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.accessibility-button:hover {
+    background-color: #0056b3;
+}
+
+/* Accessibility menu */
+.accessibility-menu {
+    position: fixed;
+    top: 70px;
+    right: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+.accessibility-menu button {
+    display: block;
+    margin: 5px 0;
+    padding: 10px;
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.accessibility-menu button:hover {
+    background-color: #0056b3;
+}
