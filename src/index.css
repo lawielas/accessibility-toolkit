@@ -1,7 +1,7 @@
-.access-btn-container {
+/* .access-btn-container {
     margin-top: 30px;
-}
-.access-button {display: inline-block;
+} */
+/* .access-button {display: inline-block;
     text-decoration: none;
     font-size: 0.97rem;
     font-weight: bold;
@@ -17,7 +17,7 @@
     color: #fff;
     background-color: #1a8cd8;
     border-block-color: #1a8cd8;
-}
+} */
 
 /* Font size styles */
 .text-small {
@@ -42,18 +42,22 @@
     position: fixed;
     top: 20px;
     right: 20px;
-    padding: 10px;
+    padding: 4px 6px;
     font-size: 1.5rem;
-    background-color: #007bff;
-    color: white;
+    background-color: #e2e2e2;
+    /* color: white; */
     border: none;
-    border-radius: 50%;
+    border-radius: 10px;
     cursor: pointer;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
+.icon {
+    width: 20px;
+}
+
 .accessibility-button:hover {
-    background-color: #0056b3;
+    background-color: #c7c7c7;
 }
 
 /* Accessibility menu */
@@ -69,12 +73,14 @@
     z-index: 1000;
 }
 
+
+
 .accessibility-menu button {
     display: block;
     margin: 5px 0;
     padding: 10px;
     width: 100%;
-    background-color: #007bff;
+    background-color: #787878;
     color: white;
     border: none;
     border-radius: 5px;
@@ -82,5 +88,5 @@
 }
 
 .accessibility-menu button:hover {
-    background-color: #0056b3;
+    background-color: #5b5b5b;
 }
