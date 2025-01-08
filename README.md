@@ -11,15 +11,10 @@
 Allows users to adjust the text size for better readability.
 Options: Small, Medium, Large, Extra-Large.
 
-### Color Adjustments
-Enables users to switch to high-contrast or colorblind-friendly modes.
-Supports predefined themes and customizable palettes.
 
 ### Link Highlighter
 Automatically underlines all links to improve visibility.
 
-### Dark/Light Mode
-Provides a toggle for dark and light themes.
 
 
 ## Installation
